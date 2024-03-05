@@ -1,0 +1,3 @@
++ CPUID CPU Z
++ Xubuntu
++ Virtual Box
