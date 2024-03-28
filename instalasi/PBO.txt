@@ -3,3 +3,4 @@
 - Notepad++
 - Netbeans
 - Gitbash
+- Visual Paradigma
